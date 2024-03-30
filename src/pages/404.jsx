@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <main className={`${primaryFont.className}`}>
         <h2>Page not found</h2>
-        <Link href="/">Home</Link>
+        {/* <Link href="/">Home</Link> */}
       </main>
     </>
   );
