@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// default
+html{
+  scroll-behavior: smooth;
+  user-select: none;
+}
+img{
+  -webkit-user-drag: none;
+}
