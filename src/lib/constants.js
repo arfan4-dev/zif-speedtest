@@ -1,4 +1,4 @@
-export const SITE_TITLE = "ZFI-SPEEDTEST";
+export const SITE_TITLE = "ZIFI-SPEEDTEST";
 
 
 export const API_URL = 'https://backend.zimomeet.com';
